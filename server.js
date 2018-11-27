@@ -20,7 +20,6 @@ app.use((request, response, next) => {
   next();
 });
 
-
 // app.use((req, res, next) => {
 //   res.render('maintenance.hbs');
 // })
